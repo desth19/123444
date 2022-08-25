@@ -1,6 +1,6 @@
 # 123444
 
-> Status do projeto: não iniciado :(
+> Status do projeto: Em andamento
 
 ```
 node app.js
