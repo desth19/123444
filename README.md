@@ -3,5 +3,5 @@
 > Status do projeto: não iniciado
 
 ```
-code
+node app.js
 ```
